@@ -6,3 +6,4 @@ might require little solidity knowledge
 different contracts, different approach
 for example
 oct
+bnb
