@@ -4,3 +4,4 @@ made little cooection today
 working on writing contracts
 might require little solidity knowledge
 different contracts, different approach
+for example
