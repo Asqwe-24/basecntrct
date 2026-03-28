@@ -9,3 +9,4 @@ oct
 bnb
 btc
 sol
+avax
