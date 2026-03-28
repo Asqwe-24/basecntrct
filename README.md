@@ -8,3 +8,4 @@ for example
 oct
 bnb
 btc
+sol
